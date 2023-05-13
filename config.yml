@@ -157,6 +157,16 @@ params:
       description:
       category: scribing.space Systems
       link: https://scribing.space
+    - name: Mastodon (scribing.social)
+      description:
+      category: scribing.space Systems
+      link: https://scribing.social
+    - name: Single Sign-On (sso.scribing.space)
+      description:
+      category: scribing.space Systems
+      link: https://sso.scribing.space
+
+
 
   # What date format to use?
   #
