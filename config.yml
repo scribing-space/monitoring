@@ -149,6 +149,9 @@ params:
   #
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
+  categories:
+    - name: scribing.space Systems
+      untitled: true
   systems:
     - name: WriteFreely (scribing.space)
       description:
