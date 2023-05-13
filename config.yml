@@ -97,7 +97,7 @@ defaultContentLanguage: en
 #
 # Broken example:
 # baseUrl: /
-baseURL: https://example.com
+baseURL: https://status.scribing.space
 
 # For features like Last modified, you
 # need to use a Git repository. If you
@@ -155,7 +155,7 @@ params:
   systems:
     - name: WriteFreely (scribing.space)
       description:
-      category: Uncategorized
+      category: scribing.space Systems
       link: https://scribing.space
 
   # What date format to use?
