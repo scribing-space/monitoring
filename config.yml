@@ -161,6 +161,10 @@ params:
       description:
       category: scribing.space Systems
       link: https://scribing.social
+    - name: NextCloud (drive.scribing.space)
+      description: 
+      category: scribing.space Systems
+      link: https://drive.scribing.space/
     - name: Single Sign-On (sso.scribing.space)
       description:
       category: scribing.space Systems
